@@ -1,2 +1,6 @@
 # Henry Truelson
 **email** hjtruelson@mines.edu
+**Address:** Golden, CO
+### Education
+-Colorado School of Mines, 2020--Present
+-ThunderRidge High School, 2016--2020
